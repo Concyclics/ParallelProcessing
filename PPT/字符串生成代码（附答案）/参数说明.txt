@@ -1,0 +1,10 @@
+例子：myfile.txt 16 1 3
+参数1：生成文件名
+参数2：生成的字符串个数
+参数3：最低频率
+参数4：最高频率
+
+参考频率：
+./randomString.out 20M_low.txt 20000000 1 5
+./randomString.out 20M_mid.txt 20000000 1 15
+./randomString.out 5M_high.txt 5000000 1 50
